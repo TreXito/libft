@@ -1,4 +1,4 @@
-<em> This activity has been created as part of the 42 curriculum by ppodobri. </em>
+<em>This activity has been created as part of the 42 curriculum by ppodobri.</em>
 
 # Description:
 ## LIBFT
